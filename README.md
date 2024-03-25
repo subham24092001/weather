@@ -15,5 +15,16 @@ Weather is a simple web application built using Vite, React.js, and Tailwind CSS
 - Tailwind CSS
 
 ## Usage
+open Vscode
+
 1. Clone the repository:
-git clone 
+git clone https://github.com/subham24092001/weather.git
+
+2. Navigate to the project directory
+cd weather
+
+3. Install dependencies:
+npm install
+
+4. Start the development server:
+npm run dev
